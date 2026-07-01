@@ -39,6 +39,17 @@ The project follows Object-Oriented Programming principles by dividing the syste
 
 ---
 ## Technologies
+## Preview
+
+### Main Menu
+
+![Main Menu](main-menu.png)
+
+### Low Stock Warning
+
+![Low Stock Warning](low-stock-warning.png)
+
+---
 
 - C++
 - Object-Oriented Programming (OOP)
