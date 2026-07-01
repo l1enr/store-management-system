@@ -39,7 +39,12 @@ The project follows Object-Oriented Programming principles by dividing the syste
 
 ---
 ## Technologies
-## Preview
+
+- C++
+- Object-Oriented Programming (OOP)
+- Data Structures
+
+- ## Preview
 
 ### Main Menu
 
@@ -50,7 +55,3 @@ The project follows Object-Oriented Programming principles by dividing the syste
 ![Low Stock Warning](low-stock-warning.png)
 
 ---
-
-- C++
-- Object-Oriented Programming (OOP)
-- Data Structures
